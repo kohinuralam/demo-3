@@ -1,0 +1,277 @@
+
+/* FOR-XL-START */
+
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+}
+
+/* FOR-LG-START */
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+		.main-nav ul li {
+			padding-right: 25px;
+		}
+
+		.main-nav ul li a {
+			font-size: 16px;
+		}
+
+		.header-btn a {
+			font-size: 14px;
+		}
+
+		.card-item2 {
+			 padding: 50px 30px 70px 30px;
+		}
+
+		.card-item3 {
+			 padding: 50px 30px 70px 30px;
+		}
+
+		.service-left img {
+			display: block;
+			margin: 0 auto;
+		}
+
+		.service-left {
+	    	margin: 40px 0 0 0;
+		}
+
+		.col-item2 {
+    		margin: 0 -5px 0 -5px;
+		}
+
+		.price-item1 {
+    		min-height: 541px;
+		}
+
+		.footer-btn input[type=text] {
+		   width: 68%;
+		   border: 0;
+		   padding: 0 20px 0 10px;
+		}
+
+
+
+}
+
+/*FOR-TABLATE-START*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+		.menu-btn {
+			display: block;
+		}
+
+		.header-btn {
+			display: none;
+		}
+
+		.navigation-bar {
+			display: none;
+		}
+
+		.marketing-right img {
+			max-width: 400px;
+			margin: 0 auto;
+		}
+
+		.marketing-right {
+	    	margin: 130px 0 0 0;
+		}
+
+		.mark-inner1 {
+			order: 2;
+		}
+
+		.mark-inner2 {
+			order: 1;
+		}
+
+		.marketing-left h1 br {
+			display: none;
+		}
+
+		.marketing-left h1 {
+		    font-size: 28px;
+		   
+		}
+
+		.service-area {
+	    	padding: 30px 0 57px 0;
+		}
+
+		.service-left {
+	    	margin: 70px 0 0 0;
+		}
+
+		.price-item {
+			margin-right: 100px;
+			margin-left: 100px;
+		}
+
+		.contact-right {
+			margin-top: 25px;
+			max-width: 100%;
+		}
+		
+}
+
+
+/*FOR-MOBIL-START*/
+
+@media screen and (max-width: 767px) {
+
+		.header-area {
+			padding: 5px 0 13px 0;
+		}
+
+		.menu-btn {
+			display: block;
+		}
+
+		.header-btn {
+			display: none;
+		}
+
+		.navigation-bar {
+			display: none;
+		}
+
+		.marketing-left {
+	    	margin: 15px 0 0 0;
+		}
+
+		.marketing-left h1 {
+		    font-size: 28px;
+		    text-align: center;
+		   
+		}
+
+		.marketing-left h1 br {
+			display: none;
+		}
+
+		.marketing-left ul li {
+			font-size: 14px;
+		}
+
+		.marketing-left a:first-of-type {
+		    padding: 11px 34px;
+		    margin: 38px 0 0 0;
+		}
+
+		.marketing-left a:last-of-type {
+		    padding: 10px 16px;
+		    margin-left: 10px;
+		}
+
+		.marketing-right {
+	    	margin: 65px 0 0 0;
+		}
+
+		.marketing-right img {
+			max-width: 300px;
+			display: block;
+			margin: 0 auto;
+		}
+
+		.mark-inner1 {
+			order: 2;
+		}
+
+		.mark-inner2 {
+			order: 1;
+		}
+
+		.eum-area {
+	    	padding: 30px 0 40px 0;
+		}
+
+		.card-item {
+			margin: 20px 0 0 0;
+		}
+
+		.count-area {
+	   		background-color: #eeeef5;
+	   		padding: 40px 0 60px 0;
+		}
+
+		.count-item {
+			margin: 50px 0 0 0;
+			padding: 25px 20px;
+
+		}
+
+		.service-right-inner {
+			margin-top: 0
+		}
+
+		.service-left {
+	    	margin: 40px 0 0 0;
+		}
+
+		.gellary-area {
+    		padding: 30px 0 40px 0;
+		}
+
+		.team-area {
+    		padding: 50px 0 40px 0;
+		}
+
+		.price-area {
+   			 padding: 50px 0 40px 0;
+		}
+
+		.price-item2 {
+    		 margin-top: 30px;
+		}
+
+		.price-item3 {
+    		 margin-top: 27px;
+		}
+
+		.col-item2 {
+    		z-index: 10;
+    		margin: 0;
+		}
+
+		.your-name,
+		.your-email {
+   			width: 100%;	
+		}
+
+		.your-name {
+   			padding-right: 0;
+		}
+
+		.contact-right {
+			margin: 25px 0 0 0;
+		}
+
+		.footer-area {
+   			padding: 50px 0 40px 0;
+ 
+		}
+
+		.footer-item ul {
+			padding-left: 20px;
+		}
+
+		.copy-right ul {
+			justify-content: center;
+			margin: 20px 0 0 0;
+		}
+
+		.copy-left {
+			text-align: center;
+		}
+
+}
+	
+
+
+		
+		         
